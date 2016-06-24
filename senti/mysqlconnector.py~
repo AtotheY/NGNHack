@@ -1,0 +1,12 @@
+import pymysql
+import logging
+class MySQLConnector():
+    def __init__(self, mid, mpwd, dbName='tweet', logger=None):
+        self.mid = mid
+        self.mpwd = mpwd
+        self.dbconn = None
+        self.cur = None
+        if logger is None:
+            self.__logger = logging.getLogger()
+        else:
+            self.__logger = logger

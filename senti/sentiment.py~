@@ -1,0 +1,31 @@
+#Author: Music
+import sys
+import os
+import unirest
+def getSentimentScore(text):
+    sentiment1, confidence1 = viveknAPI(text)
+    print sentiment1, confidence1
+    sentiment2, confidence2 = NLTKAPI(text)
+    print sentiment2, confidence2
+    
+def viveknAPI(text):
+    response = unirest.post("http://sentiment.vivekn.com/api/text/", headers={"Accept":"application/json"}, params={"txt":text})
+    result = response.body['result']
+    return (result['sentiment'], result['confidence'])
+    #print response.code
+    #print response.headers
+    #print response.body
+    #print response.raw_body
+
+def NLTKAPI(text):
+    response = unirest.post("http://text-processing.com/api/sentiment/", headers={"Accept":"application/json"}, params={"text":text})
+    ans = response.body
+    label = ans['label']
+    confidence = ans['probability'][label]
+    return label, confidence
+
+if __name__ == "__main__":
+    text = sys.argv[1]
+    print "text: ", text
+    #getSentimentScore('I hate it')
+    getSentimentScore(text)
