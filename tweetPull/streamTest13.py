@@ -9,10 +9,10 @@ db = MySQLdb.connect(host="localhost", user="root", passwd=".....1",db="tweets")
 
 cur = db.cursor()
 #consumer key, consumer secret, access token, access secret.
-ckey="KdRTI0oBAIk94w7PiofD0cmo7"
-csecret="xIN5Musw80Rlip31To4Gnfx4cZUm2KEoH500hkoLoUL7gmil1y"
-atoken="962554652-W3uFUXOMI6UYffcRTConjYBDY3QkcbqH6QBjqE0u"
-asecret="DaurNka3j8r9Yc6ALwIxMJdyJZLFGdVhweIRHnosL31Jw"
+ckey="e7pFgQ8ttcFhLv9XwkXjxCw5K"
+csecret="Q90ORVxhMGpAAqnHQ4MZJnpunfetuPQK9cRmIVirXyUbPqB0rQ"
+atoken="746283541105803264-2bPojhnyxArU4HusmNIslbyanUeGkC3"
+asecret="UsrMemhlYNAO5DLhM77oXKBTzVs3yTDt3WRZhUOSvWnQA"
 keyword = "Account hard"
 class listener(StreamListener):
 
@@ -33,7 +33,7 @@ class listener(StreamListener):
 	    print ("ERROR inputting to sql") 
         print(parsed['text'])
 	print(Tid)
-        return(True)
+        return(False)
 
     def on_error(self, status):
         print status
