@@ -527,4 +527,103 @@ python streamTest17.py
 mys     sentiment.py     streamTest11.py  streamTest14.py  streamTest17.py  streamTest4.py  streamTest7.py  streamTest.py   typescript
 [0m[01;32mmys.sh[0m  sentiment.pyc    streamTest12.py  streamTest15.py  streamTest2.py   streamTest5.py  streamTest8.py  twitterbot.py
 script  streamTest10.py  streamTest13.py  streamTest16.py  streamTest3.py   streamTest6.py  streamTest9.py  twitterbot.pyc
-]0;root@ubuntu-1gb-nyc1-01: /var/www/intuitconnext.com/tweetPullroot@ubuntu-1gb-nyc1-01:/var/www/intuitcon
+]0;root@ubuntu-1gb-nyc1-01: /var/www/intuitconnext.com/tweetPullroot@ubuntu-1gb-nyc1-01:/var/www/intuitconnext.com/tweetPull# s[Kvi streamTest.py
+[?1049h[?1h=[2;1H▽[6n[1;1H  [1;1H[1;26r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[26;1H"streamTest.py" 51L, 1645C[>c[1;1H[35mfrom[m tweepy [35mimport[m Stream
+[35mfrom[m tweepy [35mimport[m OAuthHandler
+[35mfrom[m tweepy.streaming [35mimport[m StreamListener
+[35mfrom[m sentiment [35mimport[m getSentimentScore
+[35mfrom[m twitterbot [35mimport[m sendTweet
+[35mimport[m json
+[35mimport[m MySQLdb
+db = MySQLdb.connect(host=[31m"localhost"[m, user=[31m"root"[m, passwd=[31m".....1"[m,db=[31m"tweets"[m)
+
+cur = db.cursor()
+[34m#consumer key, consumer secret, access token, access secret.[m
+ckey=[31m"KdRTI0oBAIk94w7PiofD0cmo7"[m
+csecret=[31m"xIN5Musw80Rlip31To4Gnfx4cZUm2KEoH500hkoLoUL7gmil1y"[m
+atoken=[31m"962554652-W3uFUXOMI6UYffcRTConjYBDY3QkcbqH6QBjqE0u"[m
+asecret=[31m"DaurNka3j8r9Yc6ALwIxMJdyJZLFGdVhweIRHnosL31Jw"[m
+keyword = [31m"Small business"[m
+[38;5;130mclass[m [36mlistener[m(StreamListener):
+    [38;5;130mdef[m [36m__init__[m(self, api=[36mNone[m):[19;9H[36msuper[m(StreamListener, self).__init__()[20;9Hself.num_tweets = [31m0[m
+    [38;5;130mdef[m [36mon_data[m(self, data):[22;9Hparsed = json.loads(data)[23;9HTid = [36mstr[m(parsed[[31m'id'[m])[24;9Htweet = parsed[[31m'text'[m][25;9Hlocation = parsed[[31m'user'[m][[31m'location'[m][26;119H1,1[11CTop[1;1H[?12l[?25h[?25l[26;1H[K[26;1H:[?12l[?25hw[?25l[?12l[?25hq[?25l[?12l[?25h[?25l"streamTest.py" 51L, 1645C written
+[?1l>[?12l[?25h[?1049l]0;root@ubuntu-1gb-nyc1-01: /var/www/intuitconnext.com/tweetPullroot@ubuntu-1gb-nyc1-01:/var/www/intuitconnext.com/tweetPull# vi streamTest.py6.py
+[?1049h[?1h=[2;1H▽[6n[1;1H  [1;1H[1;26r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[26;1H"streamTest6.py" 46L, 1463C[>c[1;1H[35mfrom[m tweepy [35mimport[m Stream
+[35mfrom[m tweepy [35mimport[m OAuthHandler
+[35mfrom[m tweepy.streaming [35mimport[m StreamListener
+[35mfrom[m sentiment [35mimport[m getSentimentScore
+[35mfrom[m twitterbot [35mimport[m sendTweet
+[35mimport[m json
+[35mimport[m MySQLdb
+db = MySQLdb.connect(host=[31m"localhost"[m, user=[31m"root"[m, passwd=[31m".....1"[m,db=[31m"tweets"[m)
+
+cur = db.cursor()
+[34m#consumer key, consumer secret, access token, access secret.[m
+ckey=[31m"KdRTI0oBAIk94w7PiofD0cmo7"[m
+csecret=[31m"xIN5Musw80Rlip31To4Gnfx4cZUm2KEoH500hkoLoUL7gmil1y"[m
+atoken=[31m"962554652-W3uFUXOMI6UYffcRTConjYBDY3QkcbqH6QBjqE0u"[m
+asecret=[31m"DaurNka3j8r9Yc6ALwIxMJdyJZLFGdVhweIRHnosL31Jw"[m
+keyword = [31m"Intuit"[m
+[38;5;130mclass[m [36mlistener[m(StreamListener):[19;5H[38;5;130mdef[m [36mon_data[m(self, data):[20;9Hparsed = json.loads(data)[21;9HTid = [36mstr[m(parsed[[31m'id'[m])[22;9Htweet = parsed[[31m'text'[m][23;9Hlocation = parsed[[31m'user'[m][[31m'location'[m][24;9HuserName = parsed[[31m'user'[m][[31m'screen_name'[m][25;9Hcreated_at = parsed[[31m'created_at'[m][26;119H1,1[11CTop[1;1H[?12l[?25h[26;1H
+[?1l>[?1049l
+[4]+  Stopped                 vi streamTest6.py
+]0;root@ubuntu-1gb-nyc1-01: /var/www/intuitconnext.com/tweetPullroot@ubuntu-1gb-nyc1-01:/var/www/intuitconnext.com/tweetPull# vi streamTest6.py
+[?1049h[?1h=[2;1H▽[6n[1;1H  [1;1H[1;26r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[26;1HE325: ATTENTION
+Found a swap file by the name ".streamTest6.py.swp"
+[10Cowned by: root   dated: Fri Jun 24 05:57:05 2016
+[9Cfile name: /var/www/intuitconnext.com/tweetPull/streamTest6.py
+[10Cmodified: no
+[9Cuser name: root   host name: ubuntu-1gb-nyc1-01
+[8Cprocess ID: 22796 (still running)
+While opening file "streamTest6.py"
+[13Cdated: Fri Jun 24 06:29:00 2016
+      NEWER than swap file!
+
+(1) Another program may be editing the same file.  If this is the case,
+    be careful not to end up with two different instances of the same
+    file when making changes.  Quit, or continue with caution.
+(2) An edit session for this file crashed.
+    If this is the case, use ":recover" or "vim -r streamTest6.py"
+    to recover the changes (see ":help recovery").
+    If you did this already, delete the swap file ".streamTest6.py.swp"
+    to avoid this message.
+
+Swap file ".streamTest6.py.swp" already exists!
+[O]pen Read-Only, (E)dit anyway, (R)ecover, (Q)uit, (A)bort:[?12l[?25h[26;1H[K[26;1H
+[?25l[25;1H"streamTest6.py" 46L, 1464C[>c
+Press ENTER or type command to continue[?12l[?25h[1;1H[L[?25l[1;1H[35mfrom[m tweepy [35mimport[m Stream
+[35mfrom[m tweepy [35mimport[m OAuthHandler
+[35mfrom[m tweepy.streaming [35mimport[m StreamListener
+[35mfrom[m sentiment [35mimport[m getSentimentScore
+[35mfrom[m twitterbot [35mimport[m sendTweet
+[35mimport[m json[6;12H[K[7;1H[35mimport[m MySQLdb[7;15H[K[8;1Hdb = MySQLdb.connect(host=[31m"localhost"[m, user=[31m"root"[m, passwd=[31m".....1"[m,db=[31m"tweets"[m)[9;11H[K[10;1Hcur = db.cursor()[10;18H[K[11;1H[34m#consumer key, consumer secret, access token, access secret.[m
+ckey=[31m"e7pFgQ8ttcFhLv9XwkXjxCw5K"[m[12;33H[K[13;1Hcsecret=[31m"Q90ORVxhMGpAAqnHQ4MZJnpunfetuPQK9cRmIVirXyUbPqB0rQ"[m
+atoken=[31m"746283541105803264-2bPojhnyxArU4HusmNIslbyanUeGkC3"[m
+asecret=[31m"UsrMemhlYNAO5DLhM77oXKBTzVs3yTDt3WRZhUOSvWnQA"[m
+keyword = [31m"Intuit"[m[16;19H[K[17;1H[38;5;130mclass[m [36mlistener[m(StreamListener):[17;32H[K[18;5H[K[19;1H    [38;5;130mdef[m [36mon_data[m(self, data):[19;30H[K[20;5H    parsed = json.loads(data)[20;34H[K[21;5H    Tid = [36mstr[m(parsed[[31m'id'[m])[21;33H[K[22;5H    tweet = parsed[[31m'text'[m][22;31H[K[23;5H    location = parsed[[31m'user'[m][[31m'location'[m][24;9HuserName = parsed[[31m'user'[m][[31m'screen_name'[m]
+        created_at = parsed[[31m'created_at'[m][25;42H[K[26;1H[K[26;119H1,1[11CTop[1;1H[?12l[?25h[26;1H
+[?1l>[?1049l
+[5]+  Stopped                 vi streamTest6.py
+]0;root@ubuntu-1gb-nyc1-01: /var/www/intuitconnext.com/tweetPullroot@ubuntu-1gb-nyc1-01:/var/www/intuitconnext.com/tweetPull# ls
+mys     sentiment.py     streamTest11.py  streamTest14.py  streamTest17.py  streamTest4.py  streamTest7.py  streamTest.py   typescript
+[0m[01;32mmys.sh[0m  sentiment.pyc    streamTest12.py  streamTest15.py  streamTest2.py   streamTest5.py  streamTest8.py  twitterbot.py
+script  streamTest10.py  streamTest13.py  streamTest16.py  streamTest3.py   streamTest6.py  streamTest9.py  twitterbot.pyc
+]0;root@ubuntu-1gb-nyc1-01: /var/www/intuitconnext.com/tweetPullroot@ubuntu-1gb-nyc1-01:/var/www/intuitconnext.com/tweetPull# vi streamTest.py
+[?1049h[?1h=[2;1H▽[6n[1;1H  [1;1H[1;26r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[26;1H"streamTest.py" 44L, 1459C[>c[1;1H[35mfrom[m tweepy [35mimport[m Stream
+[35mfrom[m tweepy [35mimport[m OAuthHandler
+[35mfrom[m tweepy.streaming [35mimport[m StreamListener
+[35mfrom[m sentiment [35mimport[m getSentimentScore
+[35mfrom[m twitterbot [35mimport[m sendTweet
+[35mimport[m json
+[35mimport[m MySQLdb
+db = MySQLdb.connect(host=[31m"localhost"[m, user=[31m"root"[m, passwd=[31m".....1"[m,db=[31m"tweets"[m)
+
+cur = db.cursor()
+[34m#consumer key, consumer secret, access token, access secret.[m
+ckey=[31m"e7pFgQ8ttcFhLv9XwkXjxCw5K"[m
+csecret=[31m"Q90ORVxhMGpAAqnHQ4MZJnpunfetuPQK9cRmIVirXyUbPqB0rQ"[m
+atoken=[31m"746283541105803264-2bPojhnyxArU4HusmNIslbyanUeGkC3"[m
+asecret=[31m"UsrMemhlYNAO5DLhM77oXKBTzVs3yTDt3WRZhUOSvWnQA"[m
+keyword = [31m"Small business"[m
+[38;5;130mclass[m [36mlistener[m(StreamListener):
+    [38;5;130mdef[m [36mon_data[m(self, data):[19;9Hparsed = json.loads(data)[20;9HTid = [36mstr[m(parsed[[31m'id'[m])[21;9Htweet = parsed[[31m'text'[m][22;9Hlocation = parsed[[31m'user'[m][[31m'location'[m][23;9HuserName = parsed[[31m'user'[m][[31m'screen_name'[m][24;9Hcreated_at = parsed[[31m'created_at'[m][25;9Hscore = getSentimentScore(tweet)[[31m0[m][26;119H1,1[11CTop[1;1H[?12l[?25h[?25l[26;119H2[2;1H[?12l[?25h[?25l[26;119H
