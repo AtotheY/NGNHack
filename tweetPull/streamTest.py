@@ -24,12 +24,15 @@ class listener(StreamListener):
 	created_at = parsed['created_at']
 	score = getSentimentScore(tweet)[0]
 	print(score)
-	sendTweet(userName, keyword)
+	if score < -0.60:
+        sendTweet(userName, keyword)
+
+
 	try:
 	    cur.execute('''INSERT into tweet2 (tweetid, text, location, date, score, tag) values (%s, %s, %s, %s, %s, %s)''',(Tid, tweet, location, created_at, score, keyword))
 	    db.commit()
 	except ValueError:
-	    print ("ERROR inputting to sql") 
+	    print ("ERROR inputting to sql")
         print(parsed['text'])
 	return False
 
