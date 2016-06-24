@@ -23,9 +23,8 @@ class listener(StreamListener):
 	userName = parsed['user']['screen_name']
 	created_at = parsed['created_at']
 	score = getSentimentScore(tweet)[0]
-	print(score)
 	if score < -0.60:
-        sendTweet(userName, keyword)
+	        sendTweet(userName, keyword)
 
 
 	try:
@@ -43,5 +42,5 @@ auth = OAuthHandler(ckey, csecret)
 auth.set_access_token(atoken, asecret)
 
 twitterStream = Stream(auth, listener())
-twitterStream.filter(track=["Small business"])
+twitterStream.filter(track=["Small business, Taxes, Tax, business, Need accountant, Intuit, Financial loss, profit, Cash flow, Entrepreneur, Hate Accounting,Find Accountant, Accounting hard, accounting difficult, Save money, Budget, Saving"])
 db.close()
