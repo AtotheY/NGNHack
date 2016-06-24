@@ -1,0 +1,530 @@
+Script started on Fri 24 Jun 2016 05:30:12 AM EDT
+]0;root@ubuntu-1gb-nyc1-01: /var/www/intuitconnext.com/tweetPullroot@ubuntu-1gb-nyc1-01:/var/www/intuitconnext.com/tweetPull# s[Kmys.sh
+mys.sh: command not found
+]0;root@ubuntu-1gb-nyc1-01: /var/www/intuitconnext.com/tweetPullroot@ubuntu-1gb-nyc1-01:/var/www/intuitconnext.com/tweetPull# chmod u+x scri[K[K[K[Kmys.sh
+]0;root@ubuntu-1gb-nyc1-01: /var/www/intuitconnext.com/tweetPullroot@ubuntu-1gb-nyc1-01:/var/www/intuitconnext.com/tweetPull# ls -l mys.sh
+-rwxr--r-- 1 root root 68 Jun 24 05:30 [0m[01;32mmys.sh[0m
+]0;root@ubuntu-1gb-nyc1-01: /var/www/intuitconnext.com/tweetPullroot@ubuntu-1gb-nyc1-01:/var/www/intuitconnext.com/tweetPull# mys.sh
+mys.sh: command not found
+]0;root@ubuntu-1gb-nyc1-01: /var/www/intuitconnext.com/tweetPullroot@ubuntu-1gb-nyc1-01:/var/www/intuitconnext.com/tweetPull# ./mys.sh
+hello, root. I wish to list some files of yours
+]0;root@ubuntu-1gb-nyc1-01: /var/www/intuitconnext.com/tweetPullroot@ubuntu-1gb-nyc1-01:/var/www/intuitconnext.com/tweetPull# ex[K[Kvi mys.sh
+[?1049h[?1h=[2;1H▽[6n[1;1H  [1;1H[1;26r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[26;1H"mys.sh" 2L, 68C[>c[1;1H[34m#!/bin/bash[m
+[38;5;130mecho[m[31m [m[38;5;130m"[m[31mhello, [m[35m$USER.[m[31m I wish to list some files of yours[m[38;5;130m"[m
+[94m~                                                                                                                                       [4;1H~                                                                                                                                       [5;1H~                                                                                                                                       [6;1H~                                                                                                                                       [7;1H~                                                                                                                                       [8;1H~                                                                                                                                       [9;1H~                                                                                                                                       [10;1H~                                                                                                                                       [11;1H~                                                                                                                                       [12;1H~                                                                                                                                       [13;1H~                                                                                                                                       [14;1H~                                                                                                                                       [15;1H~                                                                                                                                       [16;1H~                                                                                                                                       [17;1H~                                                                                                                                       [18;1H~                                                                                                                                       [19;1H~                                                                                                                                       [20;1H~                                                                                                                                       [21;1H~                                                                                                                                       [22;1H~                                                                                                                                       [23;1H~                                                                                                                                       [24;1H~                                                                                                                                       [25;1H~                                                                                                                                       [m[26;119H1,1[11CAll[1;1H[?12l[?25h[?25l[26;119H2[2;1H[?12l[?25h[?25l[94m~                                                                                                                                       [m[26;119H1[1;1H[?12l[?25h[?25l[26;1H[1m-- INSERT --[m[26;14H[K[26;119H1,1[11CAll[1;1H[?12l[?25h[?25l[26;121H2[1;2H[?12l[?25h[?25l[26;121H3[1;3H[?12l[?25h[?25l[26;121H4[1;4H[?12l[?25h[?25l[26;121H5[1;5H[?12l[?25h[?25l[26;121H6[1;6H[?12l[?25h[?25l[26;121H7[1;7H[?12l[?25h[?25l[26;121H8[1;8H[?12l[?25h[?25l[26;121H9[1;9H[?12l[?25h[?25l[26;121H10[1;10H[?12l[?25h[?25l[26;122H1[1;11H[?12l[?25h[?25l[26;122H2[1;12H[?12l[?25h[?25l[2;1H[K[26;119H2,1 [2;1H[?12l[?25h[?25lp[26;121H2[2;2H[?12l[?25h[?25ly[26;121H3[2;3H[?12l[?25h[?25lt[26;121H4[2;4H[?12l[?25h[?25lh[26;121H5[2;5H[?12l[?25h[?25lo[26;121H6[2;6H[?12l[?25h[?25ln[26;121H7[2;7H[?12l[?25h[?25l[26;121H8[2;8H[?12l[?25h[?25ls[26;121H9[2;9H[?12l[?25h[?25lt[26;121H10[2;10H[?12l[?25h[?25lr[26;122H1[2;11H[?12l[?25h[?25le[26;122H2[2;12H[?12l[?25h[?25la[26;122H3[2;13H[?12l[?25h[?25lm[26;122H4[2;14H[?12l[?25h[?25lT[26;122H5[2;15H[?12l[?25h[?25le[26;122H6[2;16H[?12l[?25h[?25ls[26;122H7[2;17H[?12l[?25h[?25lt[26;122H8[2;18H[?12l[?25h[?25lp[26;122H9[2;19H[?12l[?25h[?25l[2;18H[K[26;122H8[2;18H[?12l[?25h[?25l.[26;122H9[2;19H[?12l[?25h[?25lp[26;121H20[2;20H[?12l[?25h[?25ly[26;122H1[2;21H[?12l[?25h[26;1H[K[2;20H[?25l[26;119H2,20[10CAll[2;20H[?12l[?25h[?25l[26;119H[K[26;1H:[?12l[?25hw[?25l[?12l[?25hq[?25l[?12l[?25h[?25l"mys.sh" 2L, 33C written
+[?1l>[?12l[?25h[?1049l]0;root@ubuntu-1gb-nyc1-01: /var/www/intuitconnext.com/tweetPullroot@ubuntu-1gb-nyc1-01:/var/www/intuitconnext.com/tweetPull# vi mys.sh[1P./mys.sh
+Traceback (most recent call last):
+  File "streamTest.py", line 5, in <module>
+    from twitterbot import sendTweet
+  File "/var/www/intuitconnext.com/tweetPull/twitterbot.py", line 12
+SyntaxError: Non-ASCII character '\xe2' in file /var/www/intuitconnext.com/tweetPull/twitterbot.py on line 12, but no encoding declared; see http://www.python.org/peps/pep-0263.html for details
+]0;root@ubuntu-1gb-nyc1-01: /var/www/intuitconnext.com/tweetPullroot@ubuntu-1gb-nyc1-01:/var/www/intuitconnext.com/tweetPull# python mys r[K[Kscript.[K[K[K[K[K[K[K[K[K[KstreamTest.py
+Traceback (most recent call last):
+  File "streamTest.py", line 5, in <module>
+    from twitterbot import sendTweet
+  File "/var/www/intuitconnext.com/tweetPull/twitterbot.py", line 12
+SyntaxError: Non-ASCII character '\xe2' in file /var/www/intuitconnext.com/tweetPull/twitterbot.py on line 12, but no encoding declared; see http://www.python.org/peps/pep-0263.html for details
+]0;root@ubuntu-1gb-nyc1-01: /var/www/intuitconnext.com/tweetPullroot@ubuntu-1gb-nyc1-01:/var/www/intuitconnext.com/tweetPull# python streamTest.py
+Traceback (most recent call last):
+  File "streamTest.py", line 5, in <module>
+    from twitterbot import sendTweet
+  File "/var/www/intuitconnext.com/tweetPull/twitterbot.py", line 12
+SyntaxError: Non-ASCII character '\xe2' in file /var/www/intuitconnext.com/tweetPull/twitterbot.py on line 12, but no encoding declared; see http://www.python.org/peps/pep-0263.html for details
+]0;root@ubuntu-1gb-nyc1-01: /var/www/intuitconnext.com/tweetPullroot@ubuntu-1gb-nyc1-01:/var/www/intuitconnext.com/tweetPull# python streamTest.py
+Traceback (most recent call last):
+  File "streamTest.py", line 5, in <module>
+    from twitterbot import sendTweet
+  File "/var/www/intuitconnext.com/tweetPull/twitterbot.py", line 14
+SyntaxError: Non-ASCII character '\xe2' in file /var/www/intuitconnext.com/tweetPull/twitterbot.py on line 14, but no encoding declared; see http://www.python.org/peps/pep-0263.html for details
+]0;root@ubuntu-1gb-nyc1-01: /var/www/intuitconnext.com/tweetPullroot@ubuntu-1gb-nyc1-01:/var/www/intuitconnext.com/tweetPull# python streamTest.py
+Traceback (most recent call last):
+  File "streamTest.py", line 5, in <module>
+    from twitterbot import sendTweet
+  File "/var/www/intuitconnext.com/tweetPull/twitterbot.py", line 14
+SyntaxError: Non-ASCII character '\xe2' in file /var/www/intuitconnext.com/tweetPull/twitterbot.py on line 14, but no encoding declared; see http://www.python.org/peps/pep-0263.html for details
+]0;root@ubuntu-1gb-nyc1-01: /var/www/intuitconnext.com/tweetPullroot@ubuntu-1gb-nyc1-01:/var/www/intuitconnext.com/tweetPull# python streamTest.py
+Traceback (most recent call last):
+  File "streamTest.py", line 5, in <module>
+    from twitterbot import sendTweet
+  File "/var/www/intuitconnext.com/tweetPull/twitterbot.py", line 23
+SyntaxError: Non-ASCII character '\xe2' in file /var/www/intuitconnext.com/tweetPull/twitterbot.py on line 23, but no encoding declared; see http://www.python.org/peps/pep-0263.html for details
+]0;root@ubuntu-1gb-nyc1-01: /var/www/intuitconnext.com/tweetPullroot@ubuntu-1gb-nyc1-01:/var/www/intuitconnext.com/tweetPull# python streamTest.py
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:318: SNIMissingWarning: An HTTPS request has been made, but the SNI (Subject Name Indication) extension to TLS is not available on this platform. This may cause the server to present an incorrect TLS certificate, which can cause validation failures. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#snimissingwarning.
+  SNIMissingWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+0.0
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+4 Social Media Tools to Get Small Business Owners off the Treadmill #SocialMediaMarketing https://t.co/3Yaj4MH1rV https://t.co/S3AimRbyWL
+746275882319351809
+0.744336
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+Traceback (most recent call last):
+  File "streamTest.py", line 45, in <module>
+    twitterStream.filter(track=["Small business"])
+  File "/usr/local/lib/python2.7/dist-packages/tweepy/streaming.py", line 445, in filter
+    self._start(async)
+  File "/usr/local/lib/python2.7/dist-packages/tweepy/streaming.py", line 361, in _start
+    self._run()
+  File "/usr/local/lib/python2.7/dist-packages/tweepy/streaming.py", line 294, in _run
+    raise exception
+tweepy.error.TweepError: [{u'message': u'Status is a duplicate.', u'code': 187}]
+]0;root@ubuntu-1gb-nyc1-01: /var/www/intuitconnext.com/tweetPullroot@ubuntu-1gb-nyc1-01:/var/www/intuitconnext.com/tweetPull# python streamTest.py[12P./mys.sh
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:318: SNIMissingWarning: An HTTPS request has been made, but the SNI (Subject Name Indication) extension to TLS is not available on this platform. This may cause the server to present an incorrect TLS certificate, which can cause validation failures. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#snimissingwarning.
+  SNIMissingWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+^Z
+[1]+  Stopped                 ./mys.sh
+]0;root@ubuntu-1gb-nyc1-01: /var/www/intuitconnext.com/tweetPullroot@ubuntu-1gb-nyc1-01:/var/www/intuitconnext.com/tweetPull# vi ,.[K[Kmys.sh
+[?1049h[?1h=[2;1H▽[6n[1;1H  [1;1H[1;26r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[26;1H"mys.sh" 2L, 33C[>c[1;1H[34m#!/bin/bash[m
+python streamTest.py
+[94m~                                                                                                                                       [4;1H~                                                                                                                                       [5;1H~                                                                                                                                       [6;1H~                                                                                                                                       [7;1H~                                                                                                                                       [8;1H~                                                                                                                                       [9;1H~                                                                                                                                       [10;1H~                                                                                                                                       [11;1H~                                                                                                                                       [12;1H~                                                                                                                                       [13;1H~                                                                                                                                       [14;1H~                                                                                                                                       [15;1H~                                                                                                                                       [16;1H~                                                                                                                                       [17;1H~                                                                                                                                       [18;1H~                                                                                                                                       [19;1H~                                                                                                                                       [20;1H~                                                                                                                                       [21;1H~                                                                                                                                       [22;1H~                                                                                                                                       [23;1H~                                                                                                                                       [24;1H~                                                                                                                                       [25;1H~                                                                                                                                       [m[26;119H1,1[11CAll[1;1H[?12l[?25h[?25l[26;119H2[2;1H[?12l[?25h[?25l[26;121H2[2;2H[?12l[?25h[?25l[26;121H3[2;3H[?12l[?25h[?25l[26;121H4[2;4H[?12l[?25h[?25l[26;121H5[2;5H[?12l[?25h[?25l[26;121H6[2;6H[?12l[?25h[?25l[26;121H7[2;7H[?12l[?25h[?25l[26;121H8[2;8H[?12l[?25h[?25l[26;121H9[2;9H[?12l[?25h[?25l[26;121H10[2;10H[?12l[?25h[?25l[26;122H1[2;11H[?12l[?25h[?25l[26;122H2[2;12H[?12l[?25h[?25l[26;122H3[2;13H[?12l[?25h[?25l[26;122H4[2;14H[?12l[?25h[?25l[26;122H5[2;15H[?12l[?25h[?25l[26;122H6[2;16H[?12l[?25h[?25l[26;122H7[2;17H[?12l[?25h[?25l[26;122H8[2;18H[?12l[?25h[?25l[26;122H9[2;19H[?12l[?25h[?25l[26;121H20[2;20H[?12l[?25h[?25l[26;1H[1m-- INSERT --[m[26;14H[K[26;119H2,20[10CAll[2;20H[?12l[?25h[?25l[26;122H1[2;21H[?12l[?25h[?25l[26;122H2[2;22H[?12l[?25h[?25l&[26;122H3[2;23H[?12l[?25h[?25l[3;1H[K[26;119H3,1 [3;1H[?12l[?25h[?25lp[26;121H2[3;2H[?12l[?25h[?25ly[26;121H3[3;3H[?12l[?25h[?25lt[26;121H4[3;4H[?12l[?25h[?25lh[26;121H5[3;5H[?12l[?25h[?25lo[26;121H6[3;6H[?12l[?25h[?25ln[26;121H7[3;7H[?12l[?25h[?25l[26;121H8[3;8H[?12l[?25h[?25ls[26;121H9[3;9H[?12l[?25h[?25lt[26;121H10[3;10H[?12l[?25h[?25lr[26;122H1[3;11H[?12l[?25h[?25le[26;122H2[3;12H[?12l[?25h[?25la[26;122H3[3;13H[?12l[?25h[?25lm[26;122H4[3;14H[?12l[?25h[?25lT[26;122H5[3;15H[?12l[?25h[?25le[26;122H6[3;16H[?12l[?25h[?25ls[26;122H7[3;17H[?12l[?25h[?25lt[26;122H8[3;18H[?12l[?25h[?25l1[26;122H9[3;19H[?12l[?25h[?25l.[26;121H20[3;20H[?12l[?25h[?25lp[26;122H1[3;21H[?12l[?25h[?25ly[26;122H2[3;22H[?12l[?25h[?25l[26;122H3[3;23H[?12l[?25h[?25l*[26;122H4[3;24H[?12l[?25h[?25l[4;1H[K[26;119H4,1 [4;1H[?12l[?25h[?25l[94m~                                                                                                                                       [m[26;119H3,24[3;24H[?12l[?25h[?25l[3;23H[K[26;122H3[3;23H[?12l[?25h[?25l&[26;122H4[3;24H[?12l[?25h[?25l[4;1H[K[26;119H4,1 [4;1H[?12l[?25h[?25lp[26;121H2[4;2H[?12l[?25h[?25ly[26;121H3[4;3H[?12l[?25h[?25lt[26;121H4[4;4H[?12l[?25h[?25lh[26;121H5[4;5H[?12l[?25h[?25lo[26;121H6[4;6H[?12l[?25h[?25ln[26;121H7[4;7H[?12l[?25h[?25l[26;121H8[4;8H[?12l[?25h[?25ls[26;121H9[4;9H[?12l[?25h[?25lt[26;121H10[4;10H[?12l[?25h[?25lr[26;122H1[4;11H[?12l[?25h[?25le[26;122H2[4;12H[?12l[?25h[?25la[26;122H3[4;13H[?12l[?25h[?25lm[26;122H4[4;14H[?12l[?25h[?25lT[26;122H5[4;15H[?12l[?25h[?25le[26;122H6[4;16H[?12l[?25h[?25ls[26;122H7[4;17H[?12l[?25h[?25lt[26;122H8[4;18H[?12l[?25h[?25l2[26;122H9[4;19H[?12l[?25h[?25l.[26;121H20[4;20H[?12l[?25h[?25lp[26;122H1[4;21H[?12l[?25h[?25ly[26;122H2[4;22H[?12l[?25h[?25l[26;122H3[4;23H[?12l[?25h[?25l&[26;122H4[4;24H[?12l[?25h[?25l[5;1H[K[26;119H5,1 [5;1H[?12l[?25h[?25lp[26;121H2[5;2H[?12l[?25h[?25ly[26;121H3[5;3H[?12l[?25h[?25lt[26;121H4[5;4H[?12l[?25h[?25lh[26;121H5[5;5H[?12l[?25h[?25lo[26;121H6[5;6H[?12l[?25h[?25ln[26;121H7[5;7H[?12l[?25h[?25l[26;121H8[5;8H[?12l[?25h[?25ls[26;121H9[5;9H[?12l[?25h[?25lt[26;121H10[5;10H[?12l[?25h[?25lr[26;122H1[5;11H[?12l[?25h[?25le[26;122H2[5;12H[?12l[?25h[?25la[26;122H3[5;13H[?12l[?25h[?25lm[26;122H4[5;14H[?12l[?25h[?25lT[26;122H5[5;15H[?12l[?25h[?25le[26;122H6[5;16H[?12l[?25h[?25ls[26;122H7[5;17H[?12l[?25h[?25lt[26;122H8[5;18H[?12l[?25h[?25l3[26;122H9[5;19H[?12l[?25h[?25l.[26;121H20[5;20H[?12l[?25h[?25lp[26;122H1[5;21H[?12l[?25h[?25ly[26;122H2[5;22H[?12l[?25h[?25l[26;122H3[5;23H[?12l[?25h[?25l&[26;122H4[5;24H[?12l[?25h[?25l[6;1H[K[26;119H6,1 [6;1H[?12l[?25h[?25lp[26;121H2[6;2H[?12l[?25h[?25ly[26;121H3[6;3H[?12l[?25h[?25lt[26;121H4[6;4H[?12l[?25h[?25lh[26;121H5[6;5H[?12l[?25h[?25lo[26;121H6[6;6H[?12l[?25h[?25ln[26;121H7[6;7H[?12l[?25h[?25l[26;121H8[6;8H[?12l[?25h[?25ls[26;121H9[6;9H[?12l[?25h[?25lr[26;121H10[6;10H[?12l[?25h[?25le[26;122H1[6;11H[?12l[?25h[?25lm[26;122H2[6;12H[?12l[?25h[?25l[6;11H[K[26;122H1[6;11H[?12l[?25h[?25l[6;10H[K[26;122H0[6;10H[?12l[?25h[?25l[6;9H[K[26;121H9 [6;9H[?12l[?25h[?25lt[26;121H10[6;10H[?12l[?25h[?25lr[26;122H1[6;11H[?12l[?25h[?25le[26;122H2[6;12H[?12l[?25h[?25la[26;122H3[6;13H[?12l[?25h[?25lm[26;122H4[6;14H[?12l[?25h[?25lt[26;122H5[6;15H[?12l[?25h[?25le[26;122H6[6;16H[?12l[?25h[?25l[6;15H[K[26;122H5[6;15H[?12l[?25h[?25l[6;14H[K[26;122H4[6;14H[?12l[?25h[?25lT[26;122H5[6;15H[?12l[?25h[?25le[26;122H6[6;16H[?12l[?25h[?25ls[26;122H7[6;17H[?12l[?25h[?25lt[26;122H8[6;18H[?12l[?25h[?25l4[26;122H9[6;19H[?12l[?25h[?25l.[26;121H20[6;20H[?12l[?25h[?25lp[26;122H1[6;21H[?12l[?25h[?25ly[26;122H2[6;22H[?12l[?25h[?25l[26;122H3[6;23H[?12l[?25h[?25l&[26;122H4[6;24H[?12l[?25h[?25l[7;1H[K[26;119H7,1 [7;1H[?12l[?25h[?25lp[26;121H2[7;2H[?12l[?25h[?25ly[26;121H3[7;3H[?12l[?25h[?25lt[26;121H4[7;4H[?12l[?25h[?25lh[26;121H5[7;5H[?12l[?25h[?25lo[26;121H6[7;6H[?12l[?25h[?25ln[26;121H7[7;7H[?12l[?25h[?25l[26;121H8[7;8H[?12l[?25h[?25ls[26;121H9[7;9H[?12l[?25h[?25lt[26;121H10[7;10H[?12l[?25h[?25lr[26;122H1[7;11H[?12l[?25h[?25le[26;122H2[7;12H[?12l[?25h[?25la[26;122H3[7;13H[?12l[?25h[?25lm[26;122H4[7;14H[?12l[?25h[?25lT[26;122H5[7;15H[?12l[?25h[?25le[26;122H6[7;16H[?12l[?25h[?25ls[26;122H7[7;17H[?12l[?25h[?25lt[26;122H8[7;18H[?12l[?25h[?25l5[26;122H9[7;19H[?12l[?25h[?25l.[26;121H20[7;20H[?12l[?25h[?25lp[26;122H1[7;21H[?12l[?25h[?25ly[26;122H2[7;22H[?12l[?25h[?25l[26;122H3[7;23H[?12l[?25h[?25l&[26;122H4[7;24H[?12l[?25h[?25l[8;1H[K[26;119H8,1 [8;1H[?12l[?25h[?25lp[26;121H2[8;2H[?12l[?25h[?25ly[26;121H3[8;3H[?12l[?25h[?25lt[26;121H4[8;4H[?12l[?25h[?25lh[26;121H5[8;5H[?12l[?25h[?25lo[26;121H6[8;6H[?12l[?25h[?25ln[26;121H7[8;7H[?12l[?25h[?25l[26;121H8[8;8H[?12l[?25h[?25ls[26;121H9[8;9H[?12l[?25h[?25lt[26;121H10[8;10H[?12l[?25h[?25lr[26;122H1[8;11H[?12l[?25h[?25le[26;122H2[8;12H[?12l[?25h[?25la[26;122H3[8;13H[?12l[?25h[?25lm[26;122H4[8;14H[?12l[?25h[?25lT[26;122H5[8;15H[?12l[?25h[?25le[26;122H6[8;16H[?12l[?25h[?25ls[26;122H7[8;17H[?12l[?25h[?25lt[26;122H8[8;18H[?12l[?25h[?25l6[26;122H9[8;19H[?12l[?25h[?25l.[26;121H20[8;20H[?12l[?25h[?25lp[26;122H1[8;21H[?12l[?25h[?25ly[26;122H2[8;22H[?12l[?25h[?25l[26;122H3[8;23H[?12l[?25h[?25l&[26;122H4[8;24H[?12l[?25h[?25l[9;1H[K[26;119H9,1 [9;1H[?12l[?25h[?25lp[26;121H2[9;2H[?12l[?25h[?25ly[26;121H3[9;3H[?12l[?25h[?25lt[26;121H4[9;4H[?12l[?25h[?25lh[26;121H5[9;5H[?12l[?25h[?25lo[26;121H6[9;6H[?12l[?25h[?25ln[26;121H7[9;7H[?12l[?25h[?25l[26;121H8[9;8H[?12l[?25h[?25ls[26;121H9[9;9H[?12l[?25h[?25lr[26;121H10[9;10H[?12l[?25h[?25l[9;9H[K[26;121H9 [9;9H[?12l[?25h[?25lt[26;121H10[9;10H[?12l[?25h[?25lr[26;122H1[9;11H[?12l[?25h[?25le[26;122H2[9;12H[?12l[?25h[?25la[26;122H3[9;13H[?12l[?25h[?25lm[26;122H4[9;14H[?12l[?25h[?25lT[26;122H5[9;15H[?12l[?25h[?25le[26;122H6[9;16H[?12l[?25h[?25ls[26;122H7[9;17H[?12l[?25h[?25lt[26;122H8[9;18H[?12l[?25h[?25l.[26;122H9[9;19H[?12l[?25h[?25l[9;18H[K[26;122H8[9;18H[?12l[?25h[?25l7[26;122H9[9;19H[?12l[?25h[?25l.[26;121H20[9;20H[?12l[?25h[?25lp[26;122H1[9;21H[?12l[?25h[?25ly[26;122H2[9;22H[?12l[?25h[?25l[26;122H3[9;23H[?12l[?25h[?25l*[26;122H4[9;24H[?12l[?25h[?25l[10;1H[K[26;119H10,1[10;1H[?12l[?25h[?25lp[26;122H2[10;2H[?12l[?25h[?25ly[26;122H3[10;3H[?12l[?25h[?25lt[26;122H4[10;4H[?12l[?25h[?25lh[26;122H5[10;5H[?12l[?25h[?25lo[26;122H6[10;6H[?12l[?25h[?25ln[26;122H7[10;7H[?12l[?25h[?25l[26;122H8[10;8H[?12l[?25h[?25ls[26;122H9[10;9H[?12l[?25h[?25lt[26;122H10[10;10H[?12l[?25h[?25lr[26;123H1[10;11H[?12l[?25h[?25le[26;123H2[10;12H[?12l[?25h[?25la[26;123H3[10;13H[?12l[?25h[?25lm[26;123H4[10;14H[?12l[?25h[?25lT[26;123H5[10;15H[?12l[?25h[?25le[26;123H6[10;16H[?12l[?25h[?25ls[26;123H7[10;17H[?12l[?25h[?25lt[26;123H8[10;18H[?12l[?25h[?25l8[26;123H9[10;19H[?12l[?25h[?25l.[26;122H20[10;20H[?12l[?25h[?25lp[26;123H1[10;21H[?12l[?25h[?25lu[26;123H2[10;22H[?12l[?25h[?25l[10;21H[K[26;123H1[10;21H[?12l[?25h[?25ly[26;123H2[10;22H[?12l[?25h[?25l[26;123H3[10;23H[?12l[?25h[?25l&[26;123H4[10;24H[?12l[?25h[?25l[26;119H9,24 [9;24H[?12l[?25h[?25l[9;23H[K[26;122H3[9;23H[?12l[?25h[?25l[31m7[m[26;122H4[9;24H[?12l[?25h[?25l[9;23H[K[26;122H3[9;23H[?12l[?25h[?25l&[26;122H4[9;24H[?12l[?25h[?25l[26;119H10,24[10;24H[?12l[?25h[?25l[11;1H[K[26;120H1,1 [11;1H[?12l[?25h[?25lp[26;122H2[11;2H[?12l[?25h[?25ly[26;122H3[11;3H[?12l[?25h[?25lt[26;122H4[11;4H[?12l[?25h[?25lh[26;122H5[11;5H[?12l[?25h[?25lo[26;122H6[11;6H[?12l[?25h[?25ln[26;122H7[11;7H[?12l[?25h[?25l[26;122H8[11;8H[?12l[?25h[?25ls[26;122H9[11;9H[?12l[?25h[?25lt[26;122H10[11;10H[?12l[?25h[?25lr[26;123H1[11;11H[?12l[?25h[?25le[26;123H2[11;12H[?12l[?25h[?25la[26;123H3[11;13H[?12l[?25h[?25lm[26;123H4[11;14H[?12l[?25h[?25lT[26;123H5[11;15H[?12l[?25h[?25le[26;123H6[11;16H[?12l[?25h[?25ls[26;123H7[11;17H[?12l[?25h[?25lt[26;123H8[11;18H[?12l[?25h[?25l9[26;123H9[11;19H[?12l[?25h[?25l.[26;122H20[11;20H[?12l[?25h[?25lp[26;123H1[11;21H[?12l[?25h[?25lu[26;123H2[11;22H[?12l[?25h[?25l[11;21H[K[26;123H1[11;21H[?12l[?25h[?25ly[26;123H2[11;22H[?12l[?25h[?25l[26;123H3[11;23H[?12l[?25h[?25l&[26;123H4[11;24H[?12l[?25h[?25l[12;1H[K[26;120H2,1 [12;1H[?12l[?25h[?25lp[26;122H2[12;2H[?12l[?25h[?25ly[26;122H3[12;3H[?12l[?25h[?25lt[26;122H4[12;4H[?12l[?25h[?25lh[26;122H5[12;5H[?12l[?25h[?25lo[26;122H6[12;6H[?12l[?25h[?25ln[26;122H7[12;7H[?12l[?25h[?25l[26;122H8[12;8H[?12l[?25h[?25ls[26;122H9[12;9H[?12l[?25h[?25lt[26;122H10[12;10H[?12l[?25h[?25lr[26;123H1[12;11H[?12l[?25h[?25le[26;123H2[12;12H[?12l[?25h[?25la[26;123H3[12;13H[?12l[?25h[?25lm[26;123H4[12;14H[?12l[?25h[?25lT[26;123H5[12;15H[?12l[?25h[?25le[26;123H6[12;16H[?12l[?25h[?25ls[26;123H7[12;17H[?12l[?25h[?25lt[26;123H8[12;18H[?12l[?25h[?25l1[26;123H9[12;19H[?12l[?25h[?25l0[26;122H20[12;20H[?12l[?25h[?25l.[26;123H1[12;21H[?12l[?25h[?25lp[26;123H2[12;22H[?12l[?25h[?25ly[26;123H3[12;23H[?12l[?25h[?25l[26;123H4[12;24H[?12l[?25h[?25l&[26;123H5[12;25H[?12l[?25h[?25l[13;1H[K[26;120H3,1 [13;1H[?12l[?25h[?25lp[26;122H2[13;2H[?12l[?25h[?25ly[26;122H3[13;3H[?12l[?25h[?25lt[26;122H4[13;4H[?12l[?25h[?25lh[26;122H5[13;5H[?12l[?25h[?25lo[26;122H6[13;6H[?12l[?25h[?25ln[26;122H7[13;7H[?12l[?25h[?25l[26;122H8[13;8H[?12l[?25h[?25ls[26;122H9[13;9H[?12l[?25h[?25lt[26;122H10[13;10H[?12l[?25h[?25lr[26;123H1[13;11H[?12l[?25h[?25leam[26;123H4[13;14H[?12l[?25h[?25lT[26;123H5[13;15H[?12l[?25h[?25le[26;123H6[13;16H[?12l[?25h[?25ls[26;123H7[13;17H[?12l[?25h[?25lt[26;123H8[13;18H[?12l[?25h[?25l1[26;123H9[13;19H[?12l[?25h[?25l1[26;122H20[13;20H[?12l[?25h[?25l.[26;123H1[13;21H[?12l[?25h[?25lp[26;123H2[13;22H[?12l[?25h[?25ly[26;123H3[13;23H[?12l[?25h[?25l[26;123H4[13;24H[?12l[?25h[?25l&[26;123H5[13;25H[?12l[?25h[?25l[14;1H[K[26;120H4,1 [14;1H[?12l[?25h[?25lp[26;122H2[14;2H[?12l[?25h[?25ly[26;122H3[14;3H[?12l[?25h[?25lt[26;122H4[14;4H[?12l[?25h[?25lh[26;122H5[14;5H[?12l[?25h[?25lo[26;122H6[14;6H[?12l[?25h[?25ln[26;122H7[14;7H[?12l[?25h[?25l[26;122H8[14;8H[?12l[?25h[?25ls[26;122H9[14;9H[?12l[?25h[?25lt[26;122H10[14;10H[?12l[?25h[?25lr[26;123H1[14;11H[?12l[?25h[?25le[26;123H2[14;12H[?12l[?25h[?25la[26;123H3[14;13H[?12l[?25h[?25lm[26;123H4[14;14H[?12l[?25h[?25lT[26;123H5[14;15H[?12l[?25h[?25le[26;123H6[14;16H[?12l[?25h[?25ls[26;123H7[14;17H[?12l[?25h[?25lt[26;123H8[14;18H[?12l[?25h[?25l1[26;123H9[14;19H[?12l[?25h[?25l2[26;122H20[14;20H[?12l[?25h[?25l.[26;123H1[14;21H[?12l[?25h[?25lp[26;123H2[14;22H[?12l[?25h[?25ly[26;123H3[14;23H[?12l[?25h[?25l[26;123H4[14;24H[?12l[?25h[?25l&[26;123H5[14;25H[?12l[?25h[?25l[15;1H[K[26;120H5,1 [15;1H[?12l[?25h[?25lp[26;122H2[15;2H[?12l[?25h[?25ly[26;122H3[15;3H[?12l[?25h[?25lt[26;122H4[15;4H[?12l[?25h[?25lh[26;122H5[15;5H[?12l[?25h[?25lo[26;122H6[15;6H[?12l[?25h[?25ln[26;122H7[15;7H[?12l[?25h[?25l[26;122H8[15;8H[?12l[?25h[?25ls[26;122H9[15;9H[?12l[?25h[?25lt[26;122H10[15;10H[?12l[?25h[?25lr[26;123H1[15;11H[?12l[?25h[?25le[26;123H2[15;12H[?12l[?25h[?25la[26;123H3[15;13H[?12l[?25h[?25lm[26;123H4[15;14H[?12l[?25h[?25lT[26;123H5[15;15H[?12l[?25h[?25le[26;123H6[15;16H[?12l[?25h[?25ls[26;123H7[15;17H[?12l[?25h[?25lt[26;123H8[15;18H[?12l[?25h[?25l[26;123H9[15;19H[?12l[?25h[?25l[31m1[m[26;122H20[15;20H[?12l[?25h[?25l[31m3[m[26;123H1[15;21H[?12l[?25h[?25l[15;20H[K[26;123H0[15;20H[?12l[?25h[?25l[15;19H[K[26;122H19[15;19H[?12l[?25h[?25l[26;123H8[15;18H[?12l[?25h[?25l1[26;123H9[15;19H[?12l[?25h[?25l3[26;122H20[15;20H[?12l[?25h[?25l.[26;123H1[15;21H[?12l[?25h[?25lp[26;123H2[15;22H[?12l[?25h[?25ly[26;123H3[15;23H[?12l[?25h[?25l[26;123H4[15;24H[?12l[?25h[?25l&[26;123H5[15;25H[?12l[?25h[?25l[16;1H[K[26;120H6,1 [16;1H[?12l[?25h[?25lp[26;122H2[16;2H[?12l[?25h[?25ly[26;122H3[16;3H[?12l[?25h[?25lt[26;122H4[16;4H[?12l[?25h[?25lh[26;122H5[16;5H[?12l[?25h[?25lo[26;122H6[16;6H[?12l[?25h[?25ln[26;122H7[16;7H[?12l[?25h[?25l[26;122H8[16;8H[?12l[?25h[?25lS[26;122H9[16;9H[?12l[?25h[?25l[16;8H[K[26;122H8[16;8H[?12l[?25h[?25ls[26;122H9[16;9H[?12l[?25h[?25lt[26;122H10[16;10H[?12l[?25h[?25lr[26;123H1[16;11H[?12l[?25h[?25le[26;123H2[16;12H[?12l[?25h[?25la[26;123H3[16;13H[?12l[?25h[?25lm[26;123H4[16;14H[?12l[?25h[?25lT[26;123H5[16;15H[?12l[?25h[?25le[26;123H6[16;16H[?12l[?25h[?25ls[26;123H7[16;17H[?12l[?25h[?25lt[26;123H8[16;18H[?12l[?25h[?25l1[26;123H9[16;19H[?12l[?25h[?25l4[26;122H20[16;20H[?12l[?25h[?25l.[26;123H1[16;21H[?12l[?25h[?25lp[26;123H2[16;22H[?12l[?25h[?25ly[26;123H3[16;23H[?12l[?25h[?25l[26;123H4[16;24H[?12l[?25h[?25l&[26;123H5[16;25H[?12l[?25h[?25l[17;1H[K[26;120H7,1 [17;1H[?12l[?25h[?25lp[26;122H2[17;2H[?12l[?25h[?25ly[26;122H3[17;3H[?12l[?25h[?25lt[26;122H4[17;4H[?12l[?25h[?25lh[26;122H5[17;5H[?12l[?25h[?25lo[26;122H6[17;6H[?12l[?25h[?25ln[26;122H7[17;7H[?12l[?25h[?25l[26;122H8[17;8H[?12l[?25h[?25ls[26;122H9[17;9H[?12l[?25h[?25lt[26;122H10[17;10H[?12l[?25h[?25lr[26;123H1[17;11H[?12l[?25h[?25le[26;123H2[17;12H[?12l[?25h[?25la[26;123H3[17;13H[?12l[?25h[?25lm[26;123H4[17;14H[?12l[?25h[?25lT[26;123H5[17;15H[?12l[?25h[?25le[26;123H6[17;16H[?12l[?25h[?25ls[26;123H7[17;17H[?12l[?25h[?25lt[26;123H8[17;18H[?12l[?25h[?25l1[26;123H9[17;19H[?12l[?25h[?25l5[26;122H20[17;20H[?12l[?25h[?25l.[26;123H1[17;21H[?12l[?25h[?25lp[26;123H2[17;22H[?12l[?25h[?25ly[26;123H3[17;23H[?12l[?25h[?25l[26;123H4[17;24H[?12l[?25h[?25l&[26;123H5[17;25H[?12l[?25h[?25l[18;1H[K[26;120H8,1 [18;1H[?12l[?25h[?25lp[26;122H2[18;2H[?12l[?25h[?25ly[26;122H3[18;3H[?12l[?25h[?25lt[26;122H4[18;4H[?12l[?25h[?25lh[26;122H5[18;5H[?12l[?25h[?25lo[26;122H6[18;6H[?12l[?25h[?25ln[26;122H7[18;7H[?12l[?25h[?25l[26;122H8[18;8H[?12l[?25h[?25ls[26;122H9[18;9H[?12l[?25h[?25lt[26;122H10[18;10H[?12l[?25h[?25lr[26;123H1[18;11H[?12l[?25h[?25le[26;123H2[18;12H[?12l[?25h[?25la[26;123H3[18;13H[?12l[?25h[?25lm[26;123H4[18;14H[?12l[?25h[?25lT[26;123H5[18;15H[?12l[?25h[?25le[26;123H6[18;16H[?12l[?25h[?25ls[26;123H7[18;17H[?12l[?25h[?25lt[26;123H8[18;18H[?12l[?25h[?25l1[26;123H9[18;19H[?12l[?25h[?25l6[26;122H20[18;20H[?12l[?25h[?25l.[26;123H1[18;21H[?12l[?25h[?25lp[26;123H2[18;22H[?12l[?25h[?25ly[26;123H3[18;23H[?12l[?25h[?25l[26;123H4[18;24H[?12l[?25h[?25l&[26;123H5[18;25H[?12l[?25h[?25l[19;1H[K[26;120H9,1 [19;1H[?12l[?25h[?25lp[26;122H2[19;2H[?12l[?25h[?25ly[26;122H3[19;3H[?12l[?25h[?25lt[26;122H4[19;4H[?12l[?25h[?25lh[26;122H5[19;5H[?12l[?25h[?25lo[26;122H6[19;6H[?12l[?25h[?25ln[26;122H7[19;7H[?12l[?25h[?25l[26;122H8[19;8H[?12l[?25h[?25ls[26;122H9[19;9H[?12l[?25h[?25lt[26;122H10[19;10H[?12l[?25h[?25lr[26;123H1[19;11H[?12l[?25h[?25le[26;123H2[19;12H[?12l[?25h[?25la[26;123H3[19;13H[?12l[?25h[?25lm[26;123H4[19;14H[?12l[?25h[?25lT[26;123H5[19;15H[?12l[?25h[?25le[26;123H6[19;16H[?12l[?25h[?25ls[26;123H7[19;17H[?12l[?25h[?25lt[26;123H8[19;18H[?12l[?25h[?25l1[26;123H9[19;19H[?12l[?25h[?25l7[26;122H20[19;20H[?12l[?25h[?25l.[26;123H1[19;21H[?12l[?25h[?25lp[26;123H2[19;22H[?12l[?25h[?25ly[26;123H3[19;23H[?12l[?25h[26;1H[K[19;22H[?25l[26;119H19,22[9CAll[19;22H[?12l[?25h[?25l[26;119H[K[26;1H:[?12l[?25hw[?25l[?12l[?25hq[?25l[?12l[?25h[?25l"mys.sh" 19L, 449C written
+[?1l>[?12l[?25h[?1049l]0;root@ubuntu-1gb-nyc1-01: /var/www/intuitconnext.com/tweetPullroot@ubuntu-1gb-nyc1-01:/var/www/intuitconnext.com/tweetPull# vi mys.sh[1P./mys.sh
+python: can't open file 'streamTest1.py': [Errno 2] No such file or directory
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:318: SNIMissingWarning: An HTTPS request has been made, but the SNI (Subject Name Indication) extension to TLS is not available on this platform. This may cause the server to present an incorrect TLS certificate, which can cause validation failures. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#snimissingwarning.
+  SNIMissingWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:318: SNIMissingWarning: An HTTPS request has been made, but the SNI (Subject Name Indication) extension to TLS is not available on this platform. This may cause the server to present an incorrect TLS certificate, which can cause validation failures. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#snimissingwarning.
+  SNIMissingWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:318: SNIMissingWarning: An HTTPS request has been made, but the SNI (Subject Name Indication) extension to TLS is not available on this platform. This may cause the server to present an incorrect TLS certificate, which can cause validation failures. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#snimissingwarning.
+  SNIMissingWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:318: SNIMissingWarning: An HTTPS request has been made, but the SNI (Subject Name Indication) extension to TLS is not available on this platform. This may cause the server to present an incorrect TLS certificate, which can cause validation failures. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#snimissingwarning.
+  SNIMissingWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:318: SNIMissingWarning: An HTTPS request has been made, but the SNI (Subject Name Indication) extension to TLS is not available on this platform. This may cause the server to present an incorrect TLS certificate, which can cause validation failures. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#snimissingwarning.
+  SNIMissingWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:318: SNIMissingWarning: An HTTPS request has been made, but the SNI (Subject Name Indication) extension to TLS is not available on this platform. This may cause the server to present an incorrect TLS certificate, which can cause validation failures. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#snimissingwarning.
+  SNIMissingWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:318: SNIMissingWarning: An HTTPS request has been made, but the SNI (Subject Name Indication) extension to TLS is not available on this platform. This may cause the server to present an incorrect TLS certificate, which can cause validation failures. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#snimissingwarning.
+  SNIMissingWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:318: SNIMissingWarning: An HTTPS request has been made, but the SNI (Subject Name Indication) extension to TLS is not available on this platform. This may cause the server to present an incorrect TLS certificate, which can cause validation failures. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#snimissingwarning.
+  SNIMissingWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:318: SNIMissingWarning: An HTTPS request has been made, but the SNI (Subject Name Indication) extension to TLS is not available on this platform. This may cause the server to present an incorrect TLS certificate, which can cause validation failures. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#snimissingwarning.
+  SNIMissingWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:318: SNIMissingWarning: An HTTPS request has been made, but the SNI (Subject Name Indication) extension to TLS is not available on this platform. This may cause the server to present an incorrect TLS certificate, which can cause validation failures. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#snimissingwarning.
+  SNIMissingWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:318: SNIMissingWarning: An HTTPS request has been made, but the SNI (Subject Name Indication) extension to TLS is not available on this platform. This may cause the server to present an incorrect TLS certificate, which can cause validation failures. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#snimissingwarning.
+  SNIMissingWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:318: SNIMissingWarning: An HTTPS request has been made, but the SNI (Subject Name Indication) extension to TLS is not available on this platform. This may cause the server to present an incorrect TLS certificate, which can cause validation failures. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#snimissingwarning.
+  SNIMissingWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:318: SNIMissingWarning: An HTTPS request has been made, but the SNI (Subject Name Indication) extension to TLS is not available on this platform. This may cause the server to present an incorrect TLS certificate, which can cause validation failures. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#snimissingwarning.
+  SNIMissingWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:318: SNIMissingWarning: An HTTPS request has been made, but the SNI (Subject Name Indication) extension to TLS is not available on this platform. This may cause the server to present an incorrect TLS certificate, which can cause validation failures. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#snimissingwarning.
+  SNIMissingWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:318: SNIMissingWarning: An HTTPS request has been made, but the SNI (Subject Name Indication) extension to TLS is not available on this platform. This may cause the server to present an incorrect TLS certificate, which can cause validation failures. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#snimissingwarning.
+  SNIMissingWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:318: SNIMissingWarning: An HTTPS request has been made, but the SNI (Subject Name Indication) extension to TLS is not available on this platform. This may cause the server to present an incorrect TLS certificate, which can cause validation failures. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#snimissingwarning.
+  SNIMissingWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:318: SNIMissingWarning: An HTTPS request has been made, but the SNI (Subject Name Indication) extension to TLS is not available on this platform. This may cause the server to present an incorrect TLS certificate, which can cause validation failures. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#snimissingwarning.
+  SNIMissingWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+420
+420
+420
+420
+420
+-0.981677
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+it's none of your business and it has nothing to do with you
+746276673440481280
+0.0
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+https://t.co/SYfbngGeK7
+746276674195623936
+0.95145
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+ERROR inputting to sql
+RT @PippaVaux: Ian Powell of @PwC_UK and other business leaders react as Britain votes to leave EU | via @telebusiness https://t.co/gcxOEx5…
+746276676527661056
+0.0
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+#Britons_speak https://t.co/0ww7q5NgVm
+746276677127372800
+0.632578
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+Helping the #homeless https://t.co/LQqLciQF7S
+746276677760614400
+0.717702
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+Does agglomeration hallmark do good as far as veer expression angel on account of upheaval business cycle?: Eva
+746276678268116992
+0.985017
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+RT @lolitasammy: rich business man Jensen fucking sweet and soft hooker Jared is my aesthetic https://t.co/SGqDd9xIp6
+746276679165808640
+0.636953
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+420
+RT @business: Bank shares are being absolutely hammered after #Brexit vote https://t.co/L4IZCZkmA3 https://t.co/qtN2KHZVKP
+746276679962632192
+420
+420
+420
+420
+420
+420
+420
+420
+420
+420
+0.0
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+ERROR inputting to sql
+Brexit vote: business leaders call for urgent action to shore up UK economy - The Guardian … https://t.co/8DEBfJfdVq
+746276680415711232
+0.73539
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+RT @LFCFansCorner: £30m for Mané is now looking like shrewd business seeing as how that's only about $15m for FSG now... #LFC
+746276681237803008
+0.636953
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+RT @business: Bank shares are being absolutely hammered after #Brexit vote https://t.co/L4IZCZkmA3 https://t.co/qtN2KHZVKP
+746276682047303680
+-0.813979
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+ERROR inputting to sql
+Producers send me sample Beats that you have For sale.. 
+Looking to do business 
+iamnotpetty13@gmail.com
+💰💰💰💰💰💰💰💰💰💰💰
+746276682424688640
+-0.929701
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+ERROR inputting to sql
+@transcestual Why is everyone acting like countries have to be in a union to cooperate and do business
+746276683825713153
+0.0
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+Affirmation 
+All the wealth you need is what you have yourself make good use it #fitness #sport #business
+746276683787960320
+0.877024
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+ERROR inputting to sql
+#Ryanair says business as usual #Brexit knock me down 🤔
+746276684207374336
+0.732716
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+ERROR inputting to sql
+RT @MegMickel: With intense competitions noticed among #SEO professionals to grab your business deals, there are many ...  https://t.co/tDw…
+746276685465718785
+0.690551
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+5 Lead Generation Tips For Small Business Growth https://t.co/9NnsxTLeDV #leadgen #bizgrowth https://t.co/dfz65tC3Tw
+746276685100756992
+0.0
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+ERROR inputting to sql
+♪ある日の仙人さんの言葉…仙人さんのヒントはこちら…https://t.co/8jfxEYJeCE #幸せ #生き方 #人生 #ネットビジネス #business #サイドビジネス https://t.co/2VaSxkpLCQ
+746276685004177413
+-0.785165
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+RT @MichaelPDeacon: "In a 52-48 referendum, this would be unfinished business by a long way." Nigel Farage, 17 May https://t.co/DZcBoTXOHN
+746276686409379840
+0.0
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+ERROR inputting to sql
+バーバリーで維持していた企業なのでソレを失えばこうなりますね(´ー｀)。。
+「三陽商会が希望退職者募集「バーバリー」失い不振、社員の２割」SankeiBiz
+ https://t.co/3BFRWWLPRd
+746276686476378112
+-0.765721
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+RT @TXBama04: 6 inch heels she walked in the club like nobody's business 
+#IChooseBey #BETAwards #BeyonceFANdemonium https://t.co/8WfaeOistM
+746276687361544192
+0.0
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+@GovtsTheProblem correction.  The Democratic party is working to get business and productive people to leave the state
+746276688057729024
+-0.684034
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+ERROR inputting to sql
+RT @Juvelad: An early morning start to be at @PwC_UK for fabulous networking event with @LondonLGBTPride @shute_polly @LGBTLD https://t.co/…
+746276688502341632
+0.0
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+ERROR inputting to sql
+RT @chris4nature: Many community &amp; nature projects are funded with EU cash. Oh, &amp; goodbye Horizon2020 for business &amp; universities. G'bye wi…
+746276689026613248
+0.954204
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+Brexit confirmed: Hospitality reacts with uncertainty and mixed views https://t.co/7URptuWadj via @BigHospitality
+746276689051783168
+-0.834493
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+RT @business: The pound heads for its worst day on record, as #Brexit sends it tumbling https://t.co/oeGLSbxZdV https://t.co/RgnkOgCtwA
+746276689848709120
+-0.777567
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+ERROR inputting to sql
+RT @business: Hearing about #Brexit but unsure what it means? Here's a quick guide https://t.co/YowEJ9J8o6 https://t.co/HfJPUtipWd
+746276689865367552
+0.752644
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+RT @bbrian017: Going simple: The 1 trick to great #business #copywriting https://t.co/efhijdr7xl @hishamwyne
+746276692675567616
+0.877029
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+RT @taylorcaniff: Always a pleasure with LUX motors of Evansville only place I do car business! https://t.co/fyGMLFnNVl
+746276692944162816
+0.0
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+ERROR inputting to sql
+RT @iMariaJohnsen: Your #website won't be visible unless an #SEOexpert optimize it &amp; do #linkbuilding  #SEO #influencer #FACT #business htt…
+746276694193909760
+0.778617
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+How will Brexit affect your finances? https://t.co/KSMpQdbcmW
+746276695230025728
+-0.899536
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+ERROR inputting to sql
+I should be praying for this shop's thriving business... No?
+746276695510900736
+0.834287
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
++++ Wirtschafts-News +++: Bank of England will Brexit-Schock mit 326 ... - FOCUS Online https://t.co/GzbKnr9mkP business MostMedia
+746276695246680064
+0.792027
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+5 benefits of Salesforce Lightning for  your businesses https://t.co/TMsJ92Zsuu
+746276696848896000
+0.0
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+Traceback (most recent call last):
+  File "streamTest4.py", line 45, in <module>
+    twitterStream.filter(track=["Business"])
+  File "/usr/local/lib/python2.7/dist-packages/tweepy/streaming.py", line 445, in filter
+    self._start(async)
+  File "/usr/local/lib/python2.7/dist-packages/tweepy/streaming.py", line 361, in _start
+    self._run()
+  File "/usr/local/lib/python2.7/dist-packages/tweepy/streaming.py", line 294, in _run
+    raise exception
+tweepy.error.TweepError: [{u'message': u"This request looks like it might be automated. To protect our users from spam and other malicious activity, we can't complete this action right now. Please try again later.", u'code': 226}]
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+420
+420
+420
+420
+0.0
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+ERROR inputting to sql
+RT @Twittcyclos: Si Fr2 ne sait pas quoi faire de son budget au lieu de pondre des bouses pareilles y'a un commentateur à remplacer. https:…
+746276930480115712
+-0.917273
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+RT @lack78: Despite the budget cut to GoT, the show must go on. Stiff upper lip and all that. #brexit https://t.co/cVpsU7KgtV
+746276936519913472
+0.0
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+Traceback (most recent call last):
+  File "streamTest16.py", line 45, in <module>
+    twitterStream.filter(track=["Budget"])
+  File "/usr/local/lib/python2.7/dist-packages/tweepy/streaming.py", line 445, in filter
+    self._start(async)
+  File "/usr/local/lib/python2.7/dist-packages/tweepy/streaming.py", line 361, in _start
+    self._run()
+  File "/usr/local/lib/python2.7/dist-packages/tweepy/streaming.py", line 294, in _run
+    raise exception
+tweepy.error.TweepError: [{u'message': u'Application cannot perform write actions. Contact Twitter Platform Operations through https://support.twitter.com/forms/platform', u'code': 261}]
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+420
+420
+420
+420
+420
+420
+420
+420
+420
+420
+420
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+420
+420
+420
+0.0
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+Traceback (most recent call last):
+  File "streamTest3.py", line 45, in <module>
+    twitterStream.filter(track=["Tax"])
+  File "/usr/local/lib/python2.7/dist-packages/tweepy/streaming.py", line 445, in filter
+    self._start(async)
+  File "/usr/local/lib/python2.7/dist-packages/tweepy/streaming.py", line 361, in _start
+    self._run()
+  File "/usr/local/lib/python2.7/dist-packages/tweepy/streaming.py", line 294, in _run
+    raise exception
+tweepy.error.TweepError: [{u'message': u'Application cannot perform write actions. Contact Twitter Platform Operations through https://support.twitter.com/forms/platform', u'code': 261}]
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+420
+420
+420
+420
+420
+420
+420
+420
+420
+420
+^Z
+[2]+  Stopped                 ./mys.sh
+]0;root@ubuntu-1gb-nyc1-01: /var/www/intuitconnext.com/tweetPullroot@ubuntu-1gb-nyc1-01:/var/www/intuitconnext.com/tweetPull# ./mys.shvi mys.sh
+[?1049h[?1h=[2;1H▽[6n[1;1H  [1;1H[1;26r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[26;1H"mys.sh" 19L, 449C[>c[1;1H[34m#!/bin/bash[m
+python streamTest.py &
+python streamTest1.py &
+python streamTest2.py &
+python streamTest3.py &
+python streamTest4.py &
+python streamTest5.py &
+python streamTest6.py &
+python streamTest7.py &
+python streamTest8.py &
+python streamTest9.py &
+python streamTest10.py &
+python streamTest11.py &
+python streamTest12.py &
+python streamTest13.py &
+python streamTest14.py &
+python streamTest15.py &
+python streamTest16.py &
+python streamTest17.py
+[94m~                                                                                                                                       [21;1H~                                                                                                                                       [22;1H~                                                                                                                                       [23;1H~                                                                                                                                       [24;1H~                                                                                                                                       [25;1H~                                                                                                                                       [m[26;119H1,1[11CAll[1;1H[?12l[?25h[?25l[26;119H2[2;1H[?12l[?25h[?25l[26;119H3[3;1H[?12l[?25h[?25l[26;119H4[4;1H[?12l[?25h[?25l[26;119H5[5;1H[?12l[?25h[?25l[26;119H6[6;1H[?12l[?25h[?25l[26;119H5[5;1H[?12l[?25h[?25l[26;119H4[4;1H[?12l[?25h[?25l[26;119H3[3;1H[?12l[?25h[?25l[26;119H2[2;1H[?12l[?25h[?25l[26;119H1[1;1H[?12l[?25h[?25l[26;121H2[1;2H[?12l[?25h[?25l[26;121H3[1;3H[?12l[?25h[?25l[26;121H4[1;4H[?12l[?25h[?25l[26;121H5[1;5H[?12l[?25h[?25l[26;121H6[1;6H[?12l[?25h[?25l[26;121H7[1;7H[?12l[?25h[?25l[26;121H8[1;8H[?12l[?25h[?25l[26;121H9[1;9H[?12l[?25h[?25l[26;121H10[1;10H[?12l[?25h[?25l[26;122H1[1;11H[?12l[?25h[26;1H
+[?1l>[?1049l
+[3]+  Stopped                 vi mys.sh
+]0;root@ubuntu-1gb-nyc1-01: /var/www/intuitconnext.com/tweetPullroot@ubuntu-1gb-nyc1-01:/var/www/intuitconnext.com/tweetPull# vi mys.sh[1P./mys.shvi mys.sh[K[K[K[K[K[Kstream[K[K[K[K[K[K[K[K[Kls
+mys     sentiment.py     streamTest11.py  streamTest14.py  streamTest17.py  streamTest4.py  streamTest7.py  streamTest.py   typescript
+[0m[01;32mmys.sh[0m  sentiment.pyc    streamTest12.py  streamTest15.py  streamTest2.py   streamTest5.py  streamTest8.py  twitterbot.py
+script  streamTest10.py  streamTest13.py  streamTest16.py  streamTest3.py   streamTest6.py  streamTest9.py  twitterbot.pyc
+]0;root@ubuntu-1gb-nyc1-01: /var/www/intuitconnext.com/tweetPullroot@ubuntu-1gb-nyc1-01:/var/www/intuitcon
